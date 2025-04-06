@@ -1,8 +1,11 @@
 **Pizza Sales Dashboard Project**
+
 **Overview**
+
 This project demonstrates the analysis and visualization of pizza sales data using SQL for database management and Excel for creating an interactive dashboard. The purpose of this project is to provide insights into pizza sales trends, inventory management, customer preferences, and financial performance.
 
 **Project Components**
+
 **SQL Database:** The project uses SQL queries to extract, manipulate, and analyze data from a database. Data such as order details, customer information, product categories, and sales metrics are stored in SQL tables.
 
 **Excel Dashboard:** Excel is used to visualize and present the data extracted from the SQL database. Pivot tables, charts, and slicers are used to create a user-friendly dashboard that provides insights into various aspects of pizza sales.
@@ -19,6 +22,7 @@ The dataset contains the following tables:
 **Sales:** Contains detailed information about individual pizza sales, including quantity, product sold, and total sales per transaction.
 
 **Features of the SQL & Excel Dashboard**
+
 **SQL:**
 Data Extraction: SQL queries extract specific data from the database, such as total sales, orders by date, sales by product category, and customer demographics.
 
