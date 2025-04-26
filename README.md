@@ -1,5 +1,7 @@
 **Pizza Sales Dashboard Project**
 
+<img width="651" alt="Screenshot 2025-04-26 at 12 46 38 PM" src="https://github.com/user-attachments/assets/1b4ebc0e-6a41-4cd2-b432-e5b0fa37cf74" />
+
 **Overview**
 
 This project demonstrates the analysis and visualization of pizza sales data using SQL for database management and Excel for creating an interactive dashboard. The purpose of this project is to provide insights into pizza sales trends, inventory management, customer preferences, and financial performance.
